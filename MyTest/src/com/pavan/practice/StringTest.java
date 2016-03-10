@@ -14,5 +14,6 @@ public class StringTest {
 		}catch(Exception e){
 			e.printStackTrace();
 		}
+		System.out.println("Check out my progress");
 	}
 }
